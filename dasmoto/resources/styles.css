@@ -1,0 +1,33 @@
+html{
+  font-family: Helvetica, sans-serif;
+}
+
+#header{
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  background-image: url("./images/pattern.jpeg");
+}
+
+.section-title{
+  font-size: 32px;
+  font-weight: bold;
+  color: #fff;
+}
+
+#heading-brush{
+  background-color: mediumSpringGreen;
+}
+
+#heading-frame{
+  background-color: lightCoral;
+}
+
+#heading-paint{
+  background-color: skyBlue;
+}
+
+span.highlight{
+  font-weight: bold;
+  color: blue;
+}
